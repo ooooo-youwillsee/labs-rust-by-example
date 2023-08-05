@@ -8,7 +8,6 @@ fn main() {
 
     println!("After mutation: {}", multable_binding);
 
-
     // ERROR
     // _immutable_binding += 1;
 }
